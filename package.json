@@ -1,6 +1,6 @@
 {
   "name": "@xtrevad/menu-dropdown",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "description": "Animates a CSS dropdown menu with JS",
   "license": "MIT",
   "repository": "xtrevad/menu-dropdown",
